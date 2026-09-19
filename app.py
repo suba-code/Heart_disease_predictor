@@ -1,3 +1,4 @@
+st.caption("Model Accuracy: 85.25% | Trained on 303 patients - Cleveland Clinic")
 import streamlit as st
 import pickle
 import pandas as pd
